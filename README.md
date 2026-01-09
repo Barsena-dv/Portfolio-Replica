@@ -3,7 +3,7 @@
 This project is a **frontend portfolio website replica** inspired by Cynthia Ugwu’s modern and minimal portfolio design. It focuses on smooth scrolling, clean UI, and interactive animations using vanilla JavaScript and CSS.
 
 The goal of this project is to practice **advanced CSS styling, DOM manipulation, and animation techniques** while building a visually appealing website.
-
+https://portfolio-replica-beta.vercel.app/
 ---
 
 ## 🚀 Features
